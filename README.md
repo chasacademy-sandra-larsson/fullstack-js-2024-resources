@@ -4,7 +4,7 @@
 
 [How to contribute](how-to-contribute.md)
 
-# Resources for fullstack development in Javascript. Made by teachers and student in FJS24-class Chas Academy 🚀 
+# Resources for fullstack development in Javascript. Made by teachers and students in FJS24-class Chas Academy 🚀 
 
 ## Frontend 
 ### HTML
